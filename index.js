@@ -9,3 +9,4 @@ function logShout(string) {
 }
 var uppercase = "HELLO!"
 var lowercase = 'hello!'
+logShout("hello!")
